@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data8</folder>
+	<filename>DJI_0003_058.tif</filename>
+	<path>C:\Users\pyada\OneDrive - Texas A&amp;M University\Ph.D\TAMUCottonV3\sample1_320_320\data8\DJI_0003_058.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>corn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>4</ymin>
+			<xmax>95</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>corn</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>1</ymin>
+			<xmax>302</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data5</folder>
+	<filename>DJI_0038_006.tif</filename>
+	<path>C:\Users\IRH\OneDrive - USU\Desktop\windows_v1.8.0\data5\DJI_0038_006.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>corn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>3</ymin>
+			<xmax>93</xmax>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>188</ymin>
+			<xmax>407</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>

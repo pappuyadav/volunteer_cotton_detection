@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data5</folder>
+	<filename>DJI_0050_032.tif</filename>
+	<path>C:\Users\IRH\OneDrive - USU\Desktop\windows_v1.8.0\data5\DJI_0050_032.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>170</ymin>
+			<xmax>189</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

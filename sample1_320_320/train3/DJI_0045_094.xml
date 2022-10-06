@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data3</folder>
+	<filename>DJI_0045_094.tif</filename>
+	<path>C:\Users\pyada\OneDrive - Texas A&amp;M University\Ph.D\TAMUCottonV3\sample1_320_320\data3\DJI_0045_094.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>corn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>137</ymin>
+			<xmax>178</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+</annotation>
